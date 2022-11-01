@@ -1,5 +1,5 @@
 - [x] Extract Preloader component (get from public/index.html)
-- [x] Remove dynamic layout
+- [x] Remove dynamic layout completely
 - [x] Create script for generating media queries for game page
       Search: Does media query include scrollbar? Actually, the whole point is to avoid a scrollbar
 - [x] Design game UI screens (new game, pausing)
